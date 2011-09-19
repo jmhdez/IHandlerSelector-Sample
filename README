@@ -1,0 +1,14 @@
+﻿This is sample project to show how you can use 
+IHandlerSelectors to easily build applications with modules 
+that can be activated or deactivated.
+
+More info: http://blog.koalite.com
+
+---
+
+Este es un proyecto de ejemplo para mostrar cómo se pueden 
+utilizar IHandlerSelectors de Castle Windsor para construir
+activar y desactivar módulos de una aplicación de una forma
+sencilla.
+
+Más información en mi blog: http://blog.koalite.com
