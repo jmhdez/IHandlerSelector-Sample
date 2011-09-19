@@ -24,7 +24,7 @@ namespace HSSample.Infrastructure
             var module = service.GetAppModule();
 
             if (configuration.IsActive(module))
-                return handlers.First(x => TypeModulesExtensions.IsNotNullImplementation(x.ComponentModel.Implementation));
+                return handlers.First(x => x.ComponentModel.Implementation.IsNotNullImplementation());
 
             return handlers.First(x => x.ComponentModel.Implementation.IsNullImplementation());
         }
