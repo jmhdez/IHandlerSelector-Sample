@@ -2,7 +2,7 @@
 IHandlerSelectors to easily build applications with modules 
 that can be activated or deactivated.
 
-More info: http://blog.koalite.com
+More info: http://blog.koalite.com/2011/09/usando-convenciones-para-mejorar-ihandlerselector/
 
 ---
 
@@ -11,5 +11,5 @@ utilizar IHandlerSelectors de Castle Windsor para construir
 activar y desactivar módulos de una aplicación de una forma
 sencilla.
 
-Más información en mi blog: http://blog.koalite.com
+Más información en mi blog: http://blog.koalite.com/2011/09/usando-convenciones-para-mejorar-ihandlerselector/
 
